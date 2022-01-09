@@ -1,16 +1,22 @@
-# zoe
+# Zoe Salon
+<div>
+  <a href="https://flutter.dev/" target="_blank">
+    <img [Tinder App Layout] src="https://github.com/flutter/website/raw/archived-master/src/_assets/image/flutter-lockup-bg.jpg"/>
+  </a>
+</div>
 
-A new Flutter project.
+## About
+👋 Hi... Um colega de Faculdade teve uma ideia, construir um App capaz de ajudar a gerenciar marcações dos clientes de um Salão Cabelereiro. Então, decidimos construir algo simples e pequeno so pra começar.
+O App se chama Zoe Salon. A primeira vez que o app for aberto, sera pedido que seja criado uma lista dos serviços prestados no Salão, para depois poder começar a marcar as horas de atendimento!
 
-## Getting Started
+## Layout's
+<div>
+  <img [Splash] src="https://github.com/domingoslequechane/zoe_salon/blob/main/layout/1_Splash.png"/>
+  <img [Home] src="https://github.com/domingoslequechane/zoe_salon/blob/main/layout/2_Home.png"/>
+  <img [Agendar] src="https://github.com/domingoslequechane/zoe_salon/blob/main/layout/3_Agendar.png"/>
+  <img [Agenda] src="https://github.com/domingoslequechane/zoe_salon/blob/main/layout/4_Agenda.png"/>
+</div>
 
-This project is a starting point for a Flutter application.
+Algumas telas como "criação, edição e remoção dos serviços", e outras funcionalidades serão implementados de forma incremental atravez dos feedbacks dos usuários ou contribuintes!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O esforço precisaser diário, e o processo, respeitado. As pessoas sempre colhem o que semeiam. Não existe atalho. (<b>Stephen Covey</b>)
