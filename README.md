@@ -18,4 +18,4 @@ O App se chama Zoe Salon. A primeira vez que o app for aberto, sera pedido que s
 
 Algumas telas como "criação, edição e remoção dos serviços", e outras funcionalidades serão implementados de forma incremental atravez dos feedbacks dos usuários ou contribuintes!
 
-O esforço precisaser diário, e o processo, respeitado. As pessoas sempre colhem o que semeiam. Não existe atalho. (<b>Stephen Covey</b>)
+O esforço precisa ser diário, e o processo, respeitado. As pessoas sempre colhem o que semeiam. Não existe atalho. (<b>Stephen Covey</b>)
