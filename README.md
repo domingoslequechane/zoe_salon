@@ -14,7 +14,6 @@ O App se chama Zoe Salon. A primeira vez que o app for aberto, sera pedido que s
   <img [Splash] src="https://github.com/domingoslequechane/zoe_salon/blob/main/layout/1_Splash.png"/>
   <img [Home] src="https://github.com/domingoslequechane/zoe_salon/blob/main/layout/2_Home.png"/>
   <img [Agendar] src="https://github.com/domingoslequechane/zoe_salon/blob/main/layout/3_Agendar.png"/>
-  <img [Agenda] src="https://github.com/domingoslequechane/zoe_salon/blob/main/layout/4_Agenda.png"/>
 </div>
 
 Algumas telas como "criação, edição e remoção dos serviços", e outras funcionalidades serão implementados de forma incremental atravez dos feedbacks dos usuários ou contribuintes!
