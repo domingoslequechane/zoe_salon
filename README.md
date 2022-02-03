@@ -6,7 +6,7 @@
 </div>
 
 ## About
-👋 Hi... Um colega de Faculdade pediu que eu o encinasse Flutter construindo do zero um App capaz de ajudar a gerenciar marcações dos clientes de um Salão Cabelereiro. Então, decidimos construir algo simples e pequeno so pra começar.
+👋 Hi... Um colega de Faculdade pediu que eu o ensinasse Flutter construindo do zero um App capaz de ajudar a gerenciar marcações dos clientes de um Salão Cabelereiro. Então, decidimos construir algo simples e pequeno so pra começar.
 O App se chama Zoe Salon. A primeira vez que o app for aberto, sera pedido que seja criado uma lista dos serviços prestados no Salão, para depois poder começar a marcar as horas de atendimento!
 
 ## Layout's
